@@ -1,6 +1,8 @@
+[![Rust CI](https://github.com/alexpaulo100/dining-philosophers/actions/workflows/ci.yml/badge.svg)](https://github.com/alexpaulo100/dining-philosophers/actions/workflows/ci.yml)
+
 # 🍽️ Dining Philosophers Problem  
 **Projeto por: Alex Silva**
-[![Rust CI](https://github.com/alexpaulo100/dining-philosophers/actions/workflows/ci.yml/badge.svg)](https://github.com/alexpaulo100/dining-philosophers/actions/workflows/ci.yml)
+
 O clássico problema dos **Filósofos Jantando**, implementado com segurança de concorrência usando **Rust**.  
 Este projeto demonstra técnicas modernas para evitar *deadlock* ao acessar recursos compartilhados entre múltiplas threads.
 
